@@ -21,3 +21,22 @@ Why This Project:
 
  I chose this project because pet names are often either too basic or too serious—this aims to change that with maximum absurdity.
 Its a fun way to explore authentication, database interactions, and user-generated content while ensuring every pet has a truly unique (and ridiculous) identity.
+
+## Installation and Development
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/s81_petnames.git
+   cd s81_petnames
+2. Install dependencies:
+   npm install
+3. Create a .env file in the root directory and add the following content:
+   node_modules
+   package-lock.json.

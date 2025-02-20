@@ -41,3 +41,22 @@ Its a fun way to explore authentication, database interactions, and user-generat
 3. Create a .env file in the root directory and add the following content:
     node_modules
     package-lock.json 
+
+## Application Files
+
+### `app.js`
+
+The `app.js` file is the main entry point for the Node.js application. It sets up the Express server and defines the routes for the application.
+
+#### Key Features:
+
+- Initializes the Express application.
+- Sets up middleware for parsing JSON and handling CORS.
+- Defines routes for the application.
+- Starts the server and listens on the specified port.
+
+The connection.js file is responsible for establishing a connection to the MongoDB database using Mongoose.
+
+Key Features:
+Connects to the MongoDB database using the connection string from the environment variables.
+Handles connection success and error events.

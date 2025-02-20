@@ -35,8 +35,9 @@ Its a fun way to explore authentication, database interactions, and user-generat
    ```sh
    git clone https://github.com/yourusername/s81_petnames.git
    cd s81_petnames
+
 2. Install dependencies:
-   npm install
+    npm install
 3. Create a .env file in the root directory and add the following content:
-   node_modules
-   package-lock.json.
+    node_modules
+    package-lock.json 
